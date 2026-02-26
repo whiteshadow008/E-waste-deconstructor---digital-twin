@@ -28,6 +28,7 @@ This solution bridges real-world deconstruction processes with simulation to imp
 ## 🗂 Repository Structure
 <img width="375" height="490" alt="image" src="https://github.com/user-attachments/assets/35339da0-5054-466f-b0bf-f3c5d85f8b85" />
 
+By Dhanush N
 
 
 
